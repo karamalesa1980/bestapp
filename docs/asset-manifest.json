@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react_front/static/css/main.527a9af3.chunk.css",
+    "main.js": "/react_front/static/js/main.69d3c559.chunk.js",
+    "main.js.map": "/react_front/static/js/main.69d3c559.chunk.js.map",
+    "runtime-main.js": "/react_front/static/js/runtime-main.69795577.js",
+    "runtime-main.js.map": "/react_front/static/js/runtime-main.69795577.js.map",
+    "static/css/2.95908701.chunk.css": "/react_front/static/css/2.95908701.chunk.css",
+    "static/js/2.10dfd183.chunk.js": "/react_front/static/js/2.10dfd183.chunk.js",
+    "static/js/2.10dfd183.chunk.js.map": "/react_front/static/js/2.10dfd183.chunk.js.map",
+    "index.html": "/react_front/index.html",
+    "precache-manifest.2bb31a60107d32466f003cfd50aca5f5.js": "/react_front/precache-manifest.2bb31a60107d32466f003cfd50aca5f5.js",
+    "service-worker.js": "/react_front/service-worker.js",
+    "static/css/2.95908701.chunk.css.map": "/react_front/static/css/2.95908701.chunk.css.map",
+    "static/css/main.527a9af3.chunk.css.map": "/react_front/static/css/main.527a9af3.chunk.css.map",
+    "static/js/2.10dfd183.chunk.js.LICENSE.txt": "/react_front/static/js/2.10dfd183.chunk.js.LICENSE.txt",
+    "static/media/2-sm.png": "/react_front/static/media/2-sm.71566586.png",
+    "static/media/GC_logo.svg": "/react_front/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/react_front/static/media/ITN_logo.2f311a05.svg",
+    "static/media/facts-1.jpg": "/react_front/static/media/facts-1.bd1ee0cb.jpg",
+    "static/media/facts-2.jpg": "/react_front/static/media/facts-2.a020ec5b.jpg",
+    "static/media/facts-3.jpg": "/react_front/static/media/facts-3.bc0ef521.jpg",
+    "static/media/index.css": "/react_front/static/media/helveticaneuecyr-light.30778183.ttf",
+    "static/media/AirQuality.scss": "/react_front/static/media/icon_map.257c0979.svg",
+    "static/media/img-1.png": "/react_front/static/media/img-1.444ab4f6.png",
+    "static/media/img-2.png": "/react_front/static/media/img-2.43aa24db.png",
+    "static/media/img-3.png": "/react_front/static/media/img-3.2923ce8e.png",
+    "static/media/img-4.png": "/react_front/static/media/img-4.51028ac6.png",
+    "static/media/img-5.png": "/react_front/static/media/img-5.1ddccca0.png",
+    "static/media/img-6.png": "/react_front/static/media/img-6.1ebd89da.png",
+    "static/media/photo.webp": "/react_front/static/media/photo.97bfa4da.webp",
+    "static/media/shid_emozhl_logo.svg": "/react_front/static/media/shid_emozhl_logo.341a487c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69795577.js",
+    "static/css/2.95908701.chunk.css",
+    "static/js/2.10dfd183.chunk.js",
+    "static/css/main.527a9af3.chunk.css",
+    "static/js/main.69d3c559.chunk.js"
+  ]
+}
